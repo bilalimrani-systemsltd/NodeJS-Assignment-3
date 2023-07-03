@@ -1,0 +1,7 @@
+{
+  "secret": "longer-secret-is-better",
+  "refreshTokenSecret": "refresh-longer-secret-is-better",
+  "port": 5000,
+  "tokenLife": "1h",
+  "refreshTokenLife": "24h"
+}
